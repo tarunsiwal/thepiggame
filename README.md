@@ -1,3 +1,5 @@
+Here is live demo- https://tarunsiwal.github.io/thepiggame/
+
 In 2021, I developed a simple JavaScript game called the Pig Game as part of my learning journey in JavaScript.
 The Pig Game is a turn-based dice game where players compete to reach 100 points first. Players roll a die and 
 accumulate points, but rolling a 1 resets their turn score to zero. They can choose to 'Hold' to add the turn 
